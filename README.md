@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje auto na área de suporte ao usuário
+- 🔭 Hoje atuo na área de suporte ao usuário
 - 🌱 Estudando Python e SQL
 
 <div align="center">
