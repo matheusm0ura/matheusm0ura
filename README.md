@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Python e SQL
+- 🌱 Estudando análise de dados
 
 <div align="center">
   <a href="https://github.com/matheusm0ura">
